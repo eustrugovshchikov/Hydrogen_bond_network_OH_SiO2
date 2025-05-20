@@ -39,10 +39,9 @@ This script:
 
 ## Global Variables
 
-# ***** GLOBAL CUTOFF PARAMETERS *****
 OH_CUTOFF=1.2   # O1–H bond cutoff distance (Å)
 HB_CUTOFF=3.0   # Hydrogen‐bond cutoff distance (Å)
-# ************************************
+
 
 ## How to Cite
 
