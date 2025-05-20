@@ -47,6 +47,7 @@ HB_CUTOFF=3.0   # Hydrogen‐bond cutoff distance (Å)
 
 If you use this code in your work, please cite it using the following BibTeX entry:
 
+```bash
 @misc{strugovshchikov2025hydrogen,
   author       = {Strugovshchikov, E. and Mandrolko, V.},
   title        = {{Hydrogen\_bond\_network\_OH\_SiO2}},
@@ -55,4 +56,5 @@ If you use this code in your work, please cite it using the following BibTeX ent
   url          = {https://github.com/your-username/Hydrogen_bond_network_OH_SiO2},
   note         = {Accessed: May 20, 2025},
 }
+```
 
