@@ -9,7 +9,7 @@ Hydrogen Bond and Tilt Angle Analysis for Functionalized OH Groups on SiO2 Surfa
 - [Theory](#theory)  
 - [Installation](#installation)  
 - [Global Variables](#global-variables)
-- [EXAMPLE](#examples)  
+- [Examples](#examples)  
 - [How to Cite](#how-to-cite)  
 
 ---
