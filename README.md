@@ -46,10 +46,19 @@ HB_CUTOFF=3.0   # Hydrogen‐bond cutoff distance (Å)
 ```
 ## Examples
 
-Download the folder EXAMPLE and execute: 
+To run an example:
+
+1. **Download and unpack**  
+   - Download the `EXAMPLES` folder from this repository.  
+   - Unpack the `XDATCAR` file into the same directory.
+
+2. **Submit the job**
 ```bash
-python main_H_bond_v2.py 
+python main_H_bond_v2.py
 ```
+
+After the script runs, the results will be written to `frame_averages.dat` and `overall_average.dat` files.
+
 ## How to Cite
 
 If you use this code in your work, please cite it using the following BibTeX entry:
