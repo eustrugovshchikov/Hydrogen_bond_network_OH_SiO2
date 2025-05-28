@@ -1,0 +1,7 @@
+#Overall Average O1-H bond length, Tilt angle, Valid HB count, Avg H-O2, and Avg O1-H-O2 angle
+Avg_O1-H: 0.9792593941471912
+Avg_Tilt: -11.205298982309888
+Total Valid HBonds: 161039
+Avg_H-O2: 2.0411311820276095
+Avg_O1-H-O2_Angle: 155.34272674271406
+Total OH groups analyzed: 200000
