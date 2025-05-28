@@ -65,12 +65,12 @@ If you use this code in your work, please cite it using the following BibTeX ent
 
 ```bash
 @misc{strugovshchikov2025hydrogen,
-  author       = {Strugovshchikov, E. and Mandrolko, V.},
+  author       = {Strugovshchikov, Evgenii and Mandrolko, Viktor and Lesnicki, Dominika and  Pastore, Mariachiara and Chaput, Laurent and Isaiev, Mykola},
   title        = {{Hydrogen\_bond\_network\_OH\_SiO2}},
   year         = {2025},
   howpublished = {GitHub repository},
-  url          = {https://github.com/your-username/Hydrogen_bond_network_OH_SiO2},
-  note         = {Accessed: May 20, 2025},
+  url          = {https://github.com/eustrugovshchikov/Hydrogen_bond_network_OH_SiO2},
+  note         = {Accessed: May 28, 2025},
 }
 ```
 
