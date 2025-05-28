@@ -8,7 +8,8 @@ Hydrogen Bond and Tilt Angle Analysis for Functionalized OH Groups on SiO2 Surfa
 
 - [Theory](#theory)  
 - [Installation](#installation)  
-- [Global Variables](#global-variables)  
+- [Global Variables](#global-variables)
+- [EXAMPLE](#examples)  
 - [How to Cite](#how-to-cite)  
 
 ---
@@ -43,8 +44,12 @@ This script:
 OH_CUTOFF=1.2   # O1–H bond cutoff distance (Å)
 HB_CUTOFF=3.0   # Hydrogen‐bond cutoff distance (Å)
 ```
+## Examples
 
-
+Download the folder EXAMPLE and execute: 
+```bash
+python main_H_bond_v2.py 
+```
 ## How to Cite
 
 If you use this code in your work, please cite it using the following BibTeX entry:
